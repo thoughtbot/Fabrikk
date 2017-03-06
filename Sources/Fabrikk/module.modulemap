@@ -1,0 +1,6 @@
+framework module Fabrikk [system] {
+  umbrella header "Fabrikk.h"
+
+  export *
+  module * { export * }
+}
